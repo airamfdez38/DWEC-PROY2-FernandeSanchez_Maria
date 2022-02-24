@@ -1,7 +1,7 @@
 {
   "name": "porfolio-mfs",
   "version": "0.1.0",
-  "homepage": "https://airamfdez38.github.io/DWEC-PROY2-FernandezSanchez_Maria",
+  "homepage": "https://airamfdez38.github.io/DWEC-PROY2-FernandeSanchez_Maria",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
