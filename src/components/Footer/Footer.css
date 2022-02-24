@@ -1,0 +1,29 @@
+.center-align{
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-size: 48px;
+    font-weight: 400;
+    color: #64B61A;
+    font-family: Courier New, monospace;
+}
+
+.contact_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.info_group{
+    display: flex;
+    flex-direction: row;
+    justify-items: inherit;
+    align-items: center;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+p{
+    padding-left: 5px;
+    font-size: 20px;
+}

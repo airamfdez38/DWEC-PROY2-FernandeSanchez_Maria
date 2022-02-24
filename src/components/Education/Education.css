@@ -1,0 +1,30 @@
+.center-align{
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-size: 48px;
+    font-weight: 400;
+    color: #64B61A;
+    font-family: Courier New, monospace;
+}
+
+.grid_container{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    max-width: 50%;
+    height: 25vh;
+    justify-content: space-between;
+    
+}
+
+hr{
+    width: 50%;
+    border-top: 1px dashed rgb(179, 176, 176);
+    margin-bottom: 10px;
+}
+
+.text{
+    color:#2e4d19
+}
+
