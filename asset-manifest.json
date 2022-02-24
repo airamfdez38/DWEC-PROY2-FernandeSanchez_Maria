@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DWEC-PROY2-FernandeSanchez_Maria/static/css/main.04344ab3.css",
+    "main.js": "/DWEC-PROY2-FernandeSanchez_Maria/static/js/main.3cb98580.js",
+    "static/js/787.5dcb6923.chunk.js": "/DWEC-PROY2-FernandeSanchez_Maria/static/js/787.5dcb6923.chunk.js",
+    "static/media/background.jpg": "/DWEC-PROY2-FernandeSanchez_Maria/static/media/background.dabb9c9fb56d704722a0.jpg",
+    "index.html": "/DWEC-PROY2-FernandeSanchez_Maria/index.html",
+    "main.04344ab3.css.map": "/DWEC-PROY2-FernandeSanchez_Maria/static/css/main.04344ab3.css.map",
+    "main.3cb98580.js.map": "/DWEC-PROY2-FernandeSanchez_Maria/static/js/main.3cb98580.js.map",
+    "787.5dcb6923.chunk.js.map": "/DWEC-PROY2-FernandeSanchez_Maria/static/js/787.5dcb6923.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04344ab3.css",
+    "static/js/main.3cb98580.js"
+  ]
+}
